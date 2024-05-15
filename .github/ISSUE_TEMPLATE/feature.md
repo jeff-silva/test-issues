@@ -1,13 +1,13 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Feature
+about: Sugestão de melhorias
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
+**Sua requisição é referente à um problema? Por favor, descreva.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
 **Describe the solution you'd like**
